@@ -1,6 +1,7 @@
 # RESUME ( yl-zzzz )
 
 ## 개인 이력사항
+<img src = yl.jpg width = 150 height = 150>
 #### 이름 : 유예린
 #### email : ylgggg@naver.com
 #### university : hallym university
