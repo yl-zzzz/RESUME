@@ -31,7 +31,7 @@
 |1|[자바](https://www.oracle.com)|[이클립스][eclipse]|
 |2|C|[비주얼스튜디오](https://visualstudio.microsoft.com/ko/)|
 |2|[Python](https://www.python.org/)|[spyder](https://www.anaconda.com/)|
-|3|C++|[비주얼스튜디오](https://visualstudio.microsoft.com/ko/)|
+|2|C++|[비주얼스튜디오](https://visualstudio.microsoft.com/ko/)|
 
 
 
