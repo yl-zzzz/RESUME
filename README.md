@@ -13,6 +13,9 @@
 >> 여행  
 >> 게임
 
+## 취득한 자격증
+Microsoft Office Access 2016 
+
 ## 사용 언어
 1. java
 2. C
