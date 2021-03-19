@@ -14,8 +14,7 @@
 >> Javascript
 
 ## 취득한 자격증
-Microsoft Office Access 2016 
-Microsoft Office PowerPoint 2016
+Microsoft Office Access 2016 , Microsoft Office PowerPoint 2016
 
 ## 사용 언어
 1. java
