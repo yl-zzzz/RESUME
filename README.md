@@ -8,13 +8,14 @@
 소속 : **소프트웨어융합대학**  
 전공 : **스마트IOT**  
 입학년도 : 2019년 2월 25일  
-##### 취미
->> 영화보기  
->> 여행  
->> 게임
+##### 관심영역
+>> 영화감상  
+>> Html  
+>> Javascript
 
 ## 취득한 자격증
 Microsoft Office Access 2016 
+Microsoft Office PowerPoint 2016
 
 ## 사용 언어
 1. java
