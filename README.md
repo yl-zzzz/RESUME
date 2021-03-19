@@ -1,7 +1,7 @@
 # 한림대학교 소프트웨어융합대학
 
 ## 개인 이력사항
-<img src = yl.jpg width = 150 height = 150>               
+<img src = 증명사진.jpg width = 150 height = 150>               
 
 #### 이름 : 유예린
 #### email : ylgggg@naver.com
