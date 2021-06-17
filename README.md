@@ -24,9 +24,9 @@ Microsoft Office Access 2016 , Microsoft Office PowerPoint 2016
 
 
 ## 최근 관심 분야
-+ 오픈소스 
++  백엔드
 + 사물인터넷
-+ 인공지능
++ 게임데이터 분석, 메신져 개발
 
 
 |학년|언어|개발도구|
