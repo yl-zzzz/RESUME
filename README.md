@@ -24,7 +24,7 @@ Microsoft Office Access 2016 , Microsoft Office PowerPoint 2016 , Microsoft Offi
 
 
 ## 최근 관심 분야
-+  백엔드
++  백엔드, 프론트엔드
 + 사물인터넷
 + 게임데이터 분석, 메신져 개발
 
